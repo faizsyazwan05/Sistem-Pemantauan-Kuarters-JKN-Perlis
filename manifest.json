@@ -1,0 +1,16 @@
+{
+  "name": "Sistem Pemantauan Kuarters JKN Perlis",
+  "short_name": "Kuarters JKN",
+  "description": "Aplikasi pemantauan status dan kerosakan kuarters kerajaan JKN Perlis.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#040d12",
+  "theme_color": "#061c21",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
